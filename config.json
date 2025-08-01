@@ -1,0 +1,7 @@
+{
+  "token": "Token",
+  "prefix": "+",
+  "roleID": "",
+  "autoChannelID": null,
+  "autoDelayMs": 3600000
+}
